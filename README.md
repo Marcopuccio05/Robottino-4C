@@ -1,4 +1,4 @@
-#RobottinoWIFI-4C
+# RobottinoWIFI-4C
 
 Robottino per la classe 4C del Maxwell
 
@@ -46,9 +46,10 @@ Nel videotu sarebbe opportuno inserire il video della dimostrazione del risultat
 
 Il videotutorial dovrebbe essere consegnato su Classroom.
 
-Procedura d'invio
-utilizzare l'applicazione "UDP Monitor" (per Android) su telefonino
-inserire Indirizzo IP dell'Access Point (192.168.4.1) e la porta del Server UDP (4567)
-inserisci testo
-Invio testo (premendo l'apposio pulsante offerto dall'APP)
-Risultato: Monitor Seriale dovrebbe mostrare il testo inviato
+## Procedura d'invio
+1. utilizzare l'applicazione "UDP Monitor" (per Android) su telefonino
+2. inserire Indirizzo IP dell'Access Point (192.168.4.1) e la porta del Server UDP (4567)
+3. inserisci testo
+4. Invio testo (premendo l'apposio pulsante offerto dall'APP)
+
+ Risultato: Monitor Seriale dovrebbe mostrare il testo inviato
